@@ -22,6 +22,6 @@ def first_element_with_array_methods(array)
   first_country = array.first
 end
 
-def last_country_with_array_methods(array)
+def last_element_with_array_methods(array)
   last_country = array.last_country
 end
