@@ -18,6 +18,6 @@ def last_element(array)
   my_last_element = array.last
 end
 
-def first_country(array)
-  first_element_with_array_methods = array.first
+def first_element_with_array_methods(array)
+  first_country = array.first
 end
